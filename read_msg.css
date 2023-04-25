@@ -1,0 +1,13 @@
+.detail {
+  padding: 6rem;
+}
+h4 {
+  padding: 1rem;
+}
+.detail div {
+  border: solid;
+  margin-bottom: 3rem;
+}
+body {
+  background: #f5f4ef;
+}
